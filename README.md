@@ -29,12 +29,6 @@ Using Excel’s advanced features, I built a dashboard that enables users to:
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](dashboard_screenshot.png)
-
----
-
 ## 📁 Project Files
 - `Data Science Salary Dashboard.xlsx` — Full dashboard with all visuals and slicers  
 - `dashboard_screenshot.png` — Dashboard image (for README preview)  
